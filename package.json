@@ -1,0 +1,11 @@
+{
+  "name": "hoge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "hogeman": "node index.js"
+  },
+  "author": "haruki7049",
+  "license": "ISC"
+}
